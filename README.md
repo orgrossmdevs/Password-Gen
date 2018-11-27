@@ -1,6 +1,6 @@
 :warning:  Notice from Repo Creator :warning:
 ======
-This repo will be going private Dec 1, 2018! As we are releasing it on [@orgrossmdevs](https://github.com/orgrossmdevs)
+This repo will be the public repo for Password-Gen
 
 ###### Looking for Cloud Hosted Version?
 ###### [Coming soon! (PAGE AVALIABLE NOW)](https://password-gen-cloud-hosted.ml)
@@ -9,8 +9,8 @@ This repo will be going private Dec 1, 2018! As we are releasing it on [@orgross
 Secure Password Generator | Web-Based Version!
 ======
 
-#### Last Updated: ``Nov 7, 2018``
-#### Added: Launch Prompt, Removed needing GITBASH Term.
+#### Last Updated: ``Nov 27, 2018``
+#### Added: Security Update of Electron from 2.0.4 to 2.0.8
 
 # What PasswordGen uses
 * ExpressJS : Fast, unopinionated, minimalist web framework for Node.js
