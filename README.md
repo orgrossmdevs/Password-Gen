@@ -1,4 +1,4 @@
-:warning:  Official p :warning:
+:warning:  Official Repo :warning:
 ======
 Main repo for Password-gen
 
