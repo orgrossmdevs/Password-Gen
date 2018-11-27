@@ -1,6 +1,6 @@
-:warning:  Notice from Repo Creator :warning:
+:warning:  Official p :warning:
 ======
-This repo will be the public repo for Password-Gen
+Main repo for Password-gen
 
 ###### Looking for Cloud Hosted Version?
 ###### [Coming soon! (PAGE AVALIABLE NOW)](https://password-gen-cloud-hosted.ml)
