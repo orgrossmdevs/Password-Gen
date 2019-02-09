@@ -1,8 +1,11 @@
+ ### Useful Links: [Support Desk](https://rossmdevssv.atlassian.net/servicedesk/customer/portal/) | [Wiki](https://github.com/orgrossmdevs/Password-Gen/wiki)
+ 
+
 Secure Password Generator | Web-Based Version!
 ======
 
 #### Last Updated: ``Feb 9th, 2019``
-#### Configured: Small Grammatical Fixes
+#### Configured: Small Grammatical Fixes & Readme.md edit! 
 
 # What PasswordGen uses
 * ExpressJS : Fast, unopinionated, minimalist web framework for Node.js
@@ -26,7 +29,8 @@ Secure Password Generator | Web-Based Version!
 * Extract the files to your desktop
 * Open `launcher.bat` and start from 1!
 
-** Shall you encounter errors; contact our [Support Desk](https://rossmdevssv.atlassian.net/servicedesk/customer/portal/)!
+
+
 
 
 ##### The console should say: 
