@@ -1,7 +1,6 @@
  ### Useful Links: [Support Desk](https://rossmdevssv.atlassian.net/servicedesk/customer/portal/) | [Wiki](https://github.com/orgrossmdevs/Password-Gen/wiki)
  
-
-Secure Password Generator | Web-Based Version!
+Password Generator | Fully Customizable & Open Source!
 ======
 
 #### Last Updated: ``Feb 9th, 2019``
