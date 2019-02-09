@@ -1,5 +1,5 @@
 // Big Thanks to Pyxel for this code below!
-// Check him out on https://github.com/pyxelx
+// Check him out on https://github.com/FalseData
 
 // Forces NPM to require these
 const express = require('express')
@@ -8,7 +8,7 @@ const opn = require('opn')
 
 
 //Port app listens on
-const port = 3000
+const port = 
 
 
 // Loads /index.html
@@ -21,7 +21,7 @@ app.get("/", (req, res) => {
 
 //Opens browser after initiation
 
-opn('http://localhost:3000') // Change 3000 to the port that is being used on Ln. 11 (const port = numhere)
+opn('Linkhe.re') // Change 3000 to the port that is being used on Ln. 11 (const port = numhere)
 
 
 // Console Logging; ignore this!
