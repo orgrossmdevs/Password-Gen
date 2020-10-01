@@ -25,13 +25,13 @@ Secure Password Generator | Web-Based Version!
 * Extract the files to your desktop
 * Open `launcher.bat` and start from 1 and proceed to the bottom! 
 
-# PLEASE INSTALL THESE 
+# Mandatory software for Passgen
+ * [NODEJS](https://nodejs.org/en/) (Please ask your admin for assistance)
 
-* [NODEJS](https://nodejs.org/en/)
-*  Not Required for recruits >> [GitBash](https://git-scm.com/downloads)
-** Shall you encounter errors; contact our [Support Desk](https://rossmdevssv.atlassian.net/servicedesk/customer/portal/)!
+#### For experienced users
+*  [GitBash](https://git-scm.com/downloads) (This is a cli terminal for debugging.)
 
-##### The console should say: 
+##### Once the application has been started successfully it should say:
 
 Secure Password Generator 1.0 | Created by Ross & Intel
 <br/>
@@ -39,4 +39,4 @@ Opening in browser now
 <br/>
 Press CONTROL + C to terminate session!
 <br/>
-Listening on http://localhost:3000
+Listening on http://localhost:1070
