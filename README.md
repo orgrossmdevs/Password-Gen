@@ -1,3 +1,4 @@
+Hacktoberfest. 
 Secure Password Generator | Web-Based Version!
 ======
 ##### This build has not been touched since before Jan 1st, 2019 so there may be dependability issues.
