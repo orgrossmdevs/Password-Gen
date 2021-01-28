@@ -9,7 +9,7 @@
     "vhost": "^3.0.2"
   },
   "devDependencies": {
-    "electron": "^2.0.3",
+    "electron": "^9.4.0",
     "electron-winstaller": "^2.6.4"
   },
   "scripts": {
